@@ -1,10 +1,11 @@
-# rotators_Bar
+# rotatorsBar
 
- <p>Customize Hackbar are added to make easylly and good UI/Design of your own.</p>
+- [rotatorsBar_v1.0Pro]()
+  <p>Customize Hackbar are added to make easylly and good UI/Design of your own.</p>
   
     - <b>Tools (7 in 1)</b>
     
-      - LiveHTTPHeader 
+      - LiveHTTPHeader `replay function not working` 
       - Tamper Data
       - JS on/off
       - View Source
