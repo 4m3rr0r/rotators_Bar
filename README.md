@@ -5,7 +5,7 @@
   
     - <b>Tools (7 in 1)</b>
     
-      - LiveHTTPHeader `replay function not working` 
+      - LiveHTTPHeader 
       - Tamper Data
       - JS on/off
       - View Source
